@@ -1,7 +1,4 @@
 #1.görev
-Kurulumlar planlama ve veritabanı bağlama işlemi
-
-başlangıç saati : 19:20
 Kurulumlar planlama ve veritanbanı bağlantısı yapılması
 
 #2.görev
