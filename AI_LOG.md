@@ -1,3 +1,2 @@
 #1.görev
-başlangıç saati : 19:20
-Kurulumlar planlama ve planlamalar
+Kurulumlar planlama ve veritabanı bağlama işlemi
